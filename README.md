@@ -14,3 +14,10 @@
   - #fields
   - th:errors
   - th:errorclass
+
+# 5.30
+## v2
+- spring bindingResult
+- field error(save input values error when an error accurs)
+  - rejected value(save input values error when an error accurs)
+  - Binding Failure(Binding failure recognition such as type error, validation error recognition distinguished value)
