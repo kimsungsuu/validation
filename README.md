@@ -25,3 +25,11 @@
   - create error.properties and using 
   - be capable of internationalization(ex) error_en.properties)
   - delete defaultMessage
+
+# 5.31
+## v2
+- using reject, rejectedValue()
+- MessageCodesResolver
+  - Automatic generation of error codes
+    - FieldError, ObjectError
+- using Validator
