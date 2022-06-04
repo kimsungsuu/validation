@@ -35,3 +35,9 @@
 - using Validator
 
 # 6.3
+# 6.4
+- validator
+  - @NotNull, @NotBlank, @Max, @Range
+- ValidatorFactory
+- Violation
+  - violation.getMessage
