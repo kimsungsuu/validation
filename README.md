@@ -43,3 +43,5 @@
   - violation.getMessage
 
 # 6.5
+
+# 6.7
